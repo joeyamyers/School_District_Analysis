@@ -3,7 +3,7 @@
 
 The goal of this analysis was to aggregate a school district's test scores to showcase trends in school performance in order to help the school board make decisions regarding budgets and school priorities. 
 
-After academic dishonesty allegatations surfaced regarding Thomas High School's ninth grade, I was asked to repeat the analysis once again but with their test scores nullified. In my analysis, I have compared the two reports in order to determine the ramificications the academic dishonesty had on both the school and district's aggregated performance.
+After academic dishonesty allegations surfaced regarding Thomas High School's ninth grade, I was asked to repeat the analysis once again but with their test scores nullified. In my analysis, I have compared the two reports in order to determine the ramifications the academic dishonesty had on both the school and district's aggregated performance.
 
 ## Comparative Results
 
